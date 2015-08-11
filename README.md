@@ -1,9 +1,9 @@
-#Welcome to Eldraeildor's repository
-##About Me
-I am a 17 years old Web Designer and Developer based in Bordeaux (France).
+#Bienvenue sur ma page GitHub !
+##Projets en cours
+- RealStratRoulette : Un générateur de stratégie pour le jeu Counter Strike : Global Offensive. Sans les stratégies stupides.
+- b-fernandez.fr : Mon site web personnel.
 
-##Currently working on...
-Creating a nice-looking personal website including:  
-    - a blog  
-    - a knowledge database where i can put code snippets and tutorials  
-    - a contact page
+#Welcome to my GitHub page !
+##Current projects
+- RealStratRoulette : A strategy generator for the game Counter Strike : Global Offensive. Without the stupid ones.
+- b-fernandez.fr : My personal website.
